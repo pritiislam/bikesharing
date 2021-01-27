@@ -5,7 +5,7 @@ Tableau
 The purpose of this project is to support the exploration of implementing a bike share program in Des Moines. This analysis will show insight into how the bike share business works in NYC. From here, we can make an estimated proposal as to how it might work in Des Moines. 
 
 ## Results
-![](1.png)
+![Overview](1.png)
 
 [link to dashboard](https://public.tableau.com/profile/priti.islam#!/vizhome/NYCCitiBikeChallenge_16117038369600/CityBikePresentation?publish=yes)
 
