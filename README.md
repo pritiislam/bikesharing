@@ -1,8 +1,8 @@
-# bikesharing
-Tableau, Python
+# Bikesharing Analysis
+Python, Tableau
 
 ## Overview
-The purpose of this project is to support the exploration of implementing a bike share program in Des Moines. This analysis will show insight into how the bike share business works in NYC. From here, we can make an estimated proposal as to how it might work in Des Moines. 
+During a trip to NYC, my colleagues and I noticed the prominence of bike sharing programs. Inspired by this observation, we decided to analyse data from Citi Bike to determine whether a similar business model might work in Des, Moines, IA. The analysis performed will dive deep into the demotraphic of Citi Bike users, how long the bikes are used for, and where the bikes are utilized most. We will be utilizing Tableau to visualize the data for a potential investment opportunity. 
 
 ## Results
 ![City Bike Overview](1.png)
