@@ -1,5 +1,5 @@
 # bikesharing
-Tableau
+Tableau, Python
 
 ## Overview
 The purpose of this project is to support the exploration of implementing a bike share program in Des Moines. This analysis will show insight into how the bike share business works in NYC. From here, we can make an estimated proposal as to how it might work in Des Moines. 
