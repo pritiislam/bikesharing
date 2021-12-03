@@ -2,7 +2,7 @@
 Python, Tableau
 
 ## Overview
-During a trip to NYC, my colleagues and I noticed the prominence of bike sharing programs. Inspired by this observation, we decided to analyse data from Citi Bike to determine whether a similar business model might work in Des, Moines, IA. The analysis performed will dive deep into the demotraphic of Citi Bike users, how long the bikes are used for, and where the bikes are utilized most. We will be utilizing Tableau to visualize the data for a potential investment opportunity. 
+During a trip to NYC, my colleagues and I noticed the prominence of bike sharing programs around the city. Inspired by this observation, we decided to analyse data from Citi Bike to determine whether a similar business model might work in Des, Moines, IA. The analysis performed dives deep into the demographic of the Citi Bike users, how long the bikes are used for, and where the bikes are being utilized the most. We have decided to use Tableau to visualize the data for a potential local investment opportunity. 
 
 ## Results
 ![City Bike Overview](1.png)
